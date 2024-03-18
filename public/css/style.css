@@ -1,0 +1,20 @@
+h2{
+    background-color: rgb(86, 131, 199);
+    height: 50px;
+    color: white;
+    font-size: 36px;
+}
+.title{
+    text-align: center;
+}
+#formEnter{
+    background-color: rgb(196, 216, 247);
+    height: 60px;
+    padding: 20px;
+}
+#address{
+    height: 30px;
+}
+button{
+    height: 30px;
+}
